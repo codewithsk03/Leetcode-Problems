@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0174-dungeon-game](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0174-dungeon-game/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewithsk03/Leetcode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -15,4 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewithsk03/Leetcode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0174-dungeon-game](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0174-dungeon-game/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0174-dungeon-game](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0174-dungeon-game/) | Hard |
 <!---LeetCode Topics End-->
