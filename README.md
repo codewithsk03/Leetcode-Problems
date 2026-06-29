@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0174-dungeon-game](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0174-dungeon-game/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewithsk03/Leetcode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Greedy
@@ -24,4 +25,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0174-dungeon-game](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0174-dungeon-game/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
