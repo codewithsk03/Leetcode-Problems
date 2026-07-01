@@ -29,4 +29,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
