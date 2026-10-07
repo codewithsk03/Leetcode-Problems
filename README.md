@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0078-subsets](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0174-dungeon-game](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0174-dungeon-game/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/codewithsk03/Leetcode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Greedy
@@ -58,4 +59,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/codewithsk03/Leetcode-Problems/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
